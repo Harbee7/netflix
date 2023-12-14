@@ -7,6 +7,7 @@
 body {
     background-color: black;
     color: #fff;
+    overflow-x: hidden !important;
 }
 .header {
     width: 100%;
@@ -16,6 +17,7 @@ body {
     background-position:center;
     padding: 10px 8px;
     position: relative;
+    overflow-x: hidden !important;
 }
 .head {
     font-size: 50px;
